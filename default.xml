@@ -2,7 +2,7 @@
 <manifest>
 
    <remote  name="aosp"
-            fetch="https://android-review.googlesource.com" />
+            fetch="https://mirrors.tuna.tsinghua.edu.cn" />
    <default revision="refs/tags/android-11.0.0_r27"
             remote="aosp"
             sync-j="4" />
